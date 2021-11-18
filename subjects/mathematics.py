@@ -8,7 +8,8 @@ class Arithmetic:
         return self.a+self.b
     def Subtract(self,a,b):
         return a-b
-    def Multiply
+    def Multiply(self,a,b):
+        return a*b
 
 
 class Advanced:
